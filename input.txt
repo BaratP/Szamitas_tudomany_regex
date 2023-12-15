@@ -1,0 +1,16 @@
+john.doe@example.com
+alice.smith@email.co.uk
+info@company.com
+test.email@example.com
+another.email@test.co.in
+This is a sentence. Mr. Smith was here. Ms. Johnson is not present. Lorem
+ipsum
+sit
+amet amet amet
+consectetur
+adipiscing
+sit sit
+amet
+consectetur
+adipiscing
+<div>First <span>inner</span> content</div> <div>Second <span>inner</span> content</div>

@@ -1,0 +1,2 @@
+First <span>inner</span> content
+Second <span>inner</span> content

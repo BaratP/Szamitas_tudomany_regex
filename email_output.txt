@@ -1,0 +1,5 @@
+john.doe@example.com
+alice.smith@email.co.uk
+info@company.com
+test.email@example.com
+another.email@test.co.in
